@@ -1,0 +1,17 @@
+.Aqui{
+    align-self: stretch;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    
+}
+table{
+    align-self: center;
+}
+
+th{
+    text-align: center;
+    text-transform: uppercase;
+}
