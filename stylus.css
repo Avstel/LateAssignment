@@ -5,6 +5,7 @@
     align-self: center;
 }
 .thorax{
+    background-image: url(https://media.istockphoto.com/photos/wood-texture-background-wood-planks-grunge-wood-painted-wooden-wall-picture-id898873206?k=6&m=898873206&s=170667a&w=0&h=sqTVXTwYHaJ6R-IBTRwwHXev2If0DXJlDEorizDsKBQ=);
     display: inline-flex;
     flex-direction: column;
 }
@@ -15,6 +16,11 @@
     display: flex;
     justify-content: stretch;
 
+}
+
+.para1{
+    contain: content;
+    background-color: lightgrey;
 }
 
 .div1:hover{
