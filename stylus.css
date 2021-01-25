@@ -1,3 +1,6 @@
+@media(min-width: 576px){
+
+
 #top{
     text-align: center;
 }
@@ -24,12 +27,13 @@
 }
 
 .div1:hover{
-    background-color: yellow;
-    
+    background-color:lightgrey;
+    transition: 2s;
     font-size: larger;
 }
 .div2:hover{
-    background-color: black;
+    background-color: lightseagreen;
+    transition: 2s;
     justify-content: flex-end;
     font-size: larger;
 }
@@ -40,7 +44,7 @@
     flex: 60px;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
-    background-color: burlywood;
+    background-color:lightgreen;
 }
 
 p{
@@ -71,4 +75,5 @@ th{
     text-transform: uppercase;
     font-size: xx-large;
     align-content: center;
+}
 }
